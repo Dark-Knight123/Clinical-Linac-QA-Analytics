@@ -1,5 +1,3 @@
-**Skills Demonstrated:** Python, Pandas, SQL, SQLite, ETL Pipelines, Data Cleaning, Data Visualization, Quality Assurance Analytics, Clinical Data Management, Regulatory Compliance Reporting
-
 ## 📊 Project Results & Deliverables
 
 ### Data Volume
