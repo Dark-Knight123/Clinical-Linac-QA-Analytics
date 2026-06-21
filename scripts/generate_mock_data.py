@@ -2,10 +2,10 @@ import os
 import pandas as pd
 import numpy as np
 
-# Reproducible results
+# reproducible results
 np.random.seed(42)
 
-# Monthly folders required by project
+# monthly folders required by project
 months = [
     "2025-07",
     "2025-08",
